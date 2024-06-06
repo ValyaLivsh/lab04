@@ -56,7 +56,9 @@ jobs:
       - name: Build project
         run: cmake --build _build --config Release
 ```
+```
 $ git branch -M main
 $ git add .
 $ git commit -m "upd"
 $ git push -u origin main
+```
